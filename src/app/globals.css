@@ -5,7 +5,9 @@
   max-height: 300px;
   overflow: hidden;
   transition: max-height 0.3s ease-out;
-  color: rgb(39, 39, 81);
+  color : rgb(4, 4, 112);
+  font-family: Arial, Helvetica, sans-serif;
+  
 
 }
 
